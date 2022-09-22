@@ -1,0 +1,4 @@
+﻿  server.c
+C:\Users\HP\OneDrive\Desktop\Yara Ashraf_ Payment Application\Payment Application\Payment Application\Payment Application\server.c(112): warning C4715: 'saveTransaction': not all control paths return a value
+C:\Users\HP\OneDrive\Desktop\Yara Ashraf_ Payment Application\Payment Application\Payment Application\Payment Application\server.c(167): warning C4715: 'recieveTransactionData': not all control paths return a value
+  Payment Application.vcxproj -> C:\Users\HP\OneDrive\Desktop\Yara Ashraf_ Payment Application\Payment Application\Payment Application\x64\Debug\Payment Application.exe
